@@ -1,0 +1,22 @@
+.contai-container{width: 70%;margin: auto;display: flex;gap:40px;}
+
+
+@media screen and (max-width:1450px){
+    .contai-container{width: 80%;margin: auto;display: flex;gap:30px;}
+    
+}
+@media screen and (max-width:1200px){
+    .contai-container{width: 95%;margin: auto;display: flex;gap:10px;}
+    
+}
+@media screen and (max-width:992px){
+    
+}
+@media screen and (max-width:768px){
+    .contai-container{width: 99%;margin: auto;display: flex;gap:0px;}
+    
+}
+@media screen and (max-width:576px){
+    .contai-container{width: 99%;margin: auto;display: flex;gap:0px;}
+    
+}

@@ -1,0 +1,18 @@
+.footer{
+    background-color: rgb(29, 29, 29);
+    color: white;
+    height: 120px;
+    margin-top: 30px;
+}
+
+.h1-footer{
+    font-size: 17px;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.h1-footer span{
+    color: rgb(184, 79, 79);
+
+    
+}

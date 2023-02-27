@@ -1,0 +1,104 @@
+
+.header1{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.List-Icons{
+    display: flex;
+    
+    
+}
+
+.order-over{
+    font-size: 6px;
+    color: grey;
+
+    
+}
+
+.order-over h1{
+    font-weight: 100;
+    
+}
+.order-over span{
+    font-weight: 900;
+    
+    
+}
+.coin{
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: grey;
+    font-weight: 500;
+    font-size: 12px;
+
+}
+.langue{
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: grey;
+    font-weight: 500;
+    font-size: 12px;
+}
+.coin:hover{
+    color: black;
+}
+.langue:hover{
+    color: black;
+    
+}
+hr{
+    margin-top: 10px;
+
+    border-top: 0;
+   
+    
+}
+
+@media screen and (max-width:1450px){
+    
+    
+}
+@media screen and (max-width:1200px){
+    
+.header1{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    padding-top: 10px;
+}
+    
+    
+}
+@media screen and (max-width:992px){
+    
+.header1{
+    display: flex;
+    justify-content: space-between;
+    width: 97%;
+    margin: auto;
+    padding-top: 10px;
+}
+    
+}
+@media screen and (max-width:768px){
+    
+    
+}
+@media screen and (max-width:576px){
+    .header1{}
+    .order-over h1{
+        display: none;
+        
+    }
+  
+    
+    
+}

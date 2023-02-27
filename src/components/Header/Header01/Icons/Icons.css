@@ -1,0 +1,28 @@
+li{
+    list-style-type: none;
+
+
+}
+
+.span-icons{
+    padding-left:3px ;
+    padding-top:6px  ;
+    padding-right:3px  ;
+    padding-bottom:1px  ;
+    border-radius: 3px;
+    
+    background-color: #EFEFEF;
+    margin: 2px;
+    
+    
+}
+
+.span-icons:hover{
+    
+    background-color: hsl(353, 100%, 78%);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    color: white !important;
+}
+
+
